@@ -7,6 +7,13 @@ For production use:
 - Go with Options API if you are not using build tools, or plan to use Vue primarily in low-complexity scenarios, e.g. progressive enhancement.
 - Go with Composition API + Single-File Components if you plan to build full applications with Vue.
 
+## Dependencies
+```
+    "bootstrap": "^5.1.3",
+    "core-js": "^3.8.3",
+    "vue": "^3.2.13"
+```
+
 ## Project setup
 ```
 npm install
