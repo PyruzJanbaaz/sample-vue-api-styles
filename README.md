@@ -9,9 +9,9 @@ For production use:
 
 ## Dependencies
 ```
-    "bootstrap": "^5.1.3",
-    "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+- "bootstrap": "^5.1.3",
+- "core-js": "^3.8.3",
+- "vue": "^3.2.13"
 ```
 
 ## Project setup
